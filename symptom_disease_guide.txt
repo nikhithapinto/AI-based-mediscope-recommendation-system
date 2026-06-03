@@ -1,0 +1,183 @@
+SYMPTOM-DISEASE GUIDE
+=====================
+
+This guide shows the main symptoms for each disease in the training dataset.
+Use this to understand which symptoms predict which diseases accurately.
+
+DISEASE LIST AND MAIN SYMPTOMS (ALL 41 DISEASES):
+==================================================
+
+1. (vertigo) Paroxysmal Positional Vertigo:
+   Main symptoms: nausea, vomiting, loss_of_balance, unsteadiness, headache
+   Description: Inner ear disorder causing dizziness and balance problems
+
+2. AIDS:
+   Main symptoms: high_fever, patches_in_throat, muscle_wasting, extra_marital_contacts
+   Description: Acquired Immunodeficiency Syndrome - weakens immune system
+
+3. Acne:
+   Main symptoms: skin_rash, blackheads, scurring, pus_filled_pimples
+   Description: Skin condition with pimples and inflammation
+
+4. Alcoholic hepatitis:
+   Main symptoms: fluid_overload.1, vomiting, distention_of_abdomen, yellowish_skin, abdominal_pain
+   Description: Liver inflammation caused by excessive alcohol consumption
+
+5. Allergy:
+   Main symptoms: continuous_sneezing, shivering, chills, watering_from_eyes
+   Description: Immune system reaction to foreign substances
+
+6. Arthritis:
+   Main symptoms: muscle_weakness, painful_walking, stiff_neck, movement_stiffness, swelling_joints
+   Description: Inflammation of joints causing pain and stiffness
+
+7. Bronchial Asthma:
+   Main symptoms: breathlessness, high_fever, family_history, mucoid_sputum, fatigue
+   Description: Chronic respiratory condition causing breathing difficulties
+
+8. Cervical spondylosis:
+   Main symptoms: neck_pain, back_pain, dizziness, loss_of_balance, weakness_in_limbs
+   Description: Age-related wear and tear of cervical spine
+
+9. Chicken pox:
+   Main symptoms: red_spots_over_body, malaise, lethargy, mild_fever, high_fever
+   Description: Viral infection causing itchy rash and fever
+
+10. Chronic cholestasis:
+    Main symptoms: abdominal_pain, yellowing_of_eyes, itching, yellowish_skin, nausea
+    Description: Reduced bile flow from liver causing jaundice
+
+11. Common Cold:
+    Main symptoms: throat_irritation, muscle_pain, chest_pain, phlegm, sinus_pressure
+    Description: Viral infection of upper respiratory tract
+
+12. Dengue:
+    Main symptoms: pain_behind_the_eyes, headache, loss_of_appetite, back_pain, skin_rash
+    Description: Viral infection transmitted by mosquitoes
+
+13. Diabetes:
+    Main symptoms: excessive_hunger, obesity, increased_appetite, polyuria, weight_loss
+    Description: High blood sugar levels due to insulin problems
+
+14. Dimorphic hemorrhoids (piles):
+    Main symptoms: irritation_in_anus, constipation, pain_in_anal_region, bloody_stool, pain_during_bowel_movements
+    Description: Swollen veins in rectum and anus causing pain
+
+15. Drug Reaction:
+    Main symptoms: itching, burning_micturition, skin_rash, stomach_pain, spotting_ urination
+    Description: Adverse reaction to medications
+
+16. Fungal infection:
+    Main symptoms: nodal_skin_eruptions, skin_rash, itching, dischromic _patches
+    Description: Infection caused by fungi affecting skin
+
+17. GERD:
+    Main symptoms: chest_pain, stomach_pain, cough, acidity, ulcers_on_tongue
+    Description: Gastroesophageal Reflux Disease - acid reflux
+
+18. Gastroenteritis:
+    Main symptoms: diarrhoea, sunken_eyes, vomiting, dehydration
+    Description: Inflammation of stomach and intestines
+
+19. Heart attack:
+    Main symptoms: chest_pain, vomiting, sweating, breathlessness
+    Description: Blockage of blood flow to the heart muscle
+
+20. Hepatitis B:
+    Main symptoms: receiving_unsterile_injections, malaise, receiving_blood_transfusion, dark_urine, abdominal_pain
+    Description: Viral infection affecting the liver
+
+21. Hepatitis C:
+    Main symptoms: yellowish_skin, family_history, nausea, fatigue, loss_of_appetite
+    Description: Viral infection affecting the liver
+
+22. Hepatitis D:
+    Main symptoms: abdominal_pain, yellowing_of_eyes, joint_pain, dark_urine, loss_of_appetite
+    Description: Viral infection that occurs with Hepatitis B
+
+23. Hepatitis E:
+    Main symptoms: stomach_bleeding, abdominal_pain, loss_of_appetite, yellowing_of_eyes, coma
+    Description: Viral infection affecting the liver
+
+24. Hypertension:
+    Main symptoms: loss_of_balance, lack_of_concentration, chest_pain, dizziness, headache
+    Description: High blood pressure
+
+25. Hyperthyroidism:
+    Main symptoms: irritability, muscle_weakness, abnormal_menstruation, fatigue, diarrhoea
+    Description: Overactive thyroid gland producing excess hormones
+
+26. Hypoglycemia:
+    Main symptoms: irritability, palpitations, excessive_hunger, slurred_speech, fatigue
+    Description: Low blood sugar levels
+
+27. Hypothyroidism:
+    Main symptoms: enlarged_thyroid, swollen_extremeties, depression, irritability, brittle_nails
+    Description: Underactive thyroid gland producing insufficient hormones
+
+28. Impetigo:
+    Main symptoms: skin_rash, yellow_crust_ooze, red_sore_around_nose, blister, high_fever
+    Description: Bacterial skin infection causing sores and blisters
+
+29. Jaundice:
+    Main symptoms: high_fever, fatigue, abdominal_pain, vomiting, weight_loss
+    Description: Yellow discoloration due to liver problems
+
+30. Malaria:
+    Main symptoms: muscle_pain, nausea, headache, vomiting, chills
+    Description: Parasitic infection transmitted by mosquitoes
+
+31. Migraine:
+    Main symptoms: excessive_hunger, irritability, indigestion, headache, depression
+    Description: Severe recurring headaches with neurological symptoms
+
+32. Osteoarthritis:
+    Main symptoms: joint_pain, hip_joint_pain, swelling_joints, neck_pain, painful_walking
+    Description: Degenerative joint disease
+
+33. Paralysis (brain hemorrhage):
+    Main symptoms: altered_sensorium, vomiting, weakness_of_one_body_side, headache
+    Description: Loss of muscle function due to brain bleeding
+
+34. Peptic ulcer disease:
+    Main symptoms: vomiting, passage_of_gases, loss_of_appetite, abdominal_pain, internal_itching
+    Description: Sores in stomach or small intestine lining
+
+35. Pneumonia:
+    Main symptoms: chest_pain, rusty_sputum, fatigue, fast_heart_rate, cough
+    Description: Lung infection causing inflammation
+
+36. Psoriasis:
+    Main symptoms: joint_pain, silver_like_dusting, small_dents_in_nails, skin_rash, inflammatory_nails
+    Description: Autoimmune skin condition
+
+37. Tuberculosis:
+    Main symptoms: chest_pain, loss_of_appetite, swelled_lymph_nodes, malaise, phlegm
+    Description: Bacterial infection primarily affecting lungs
+
+38. Typhoid:
+    Main symptoms: high_fever, fatigue, chills, toxic_look_(typhos), headache
+    Description: Bacterial infection affecting intestines
+
+39. Urinary tract infection:
+    Main symptoms: continuous_feel_of_urine, bladder_discomfort, burning_micturition, foul_smell_of urine
+    Description: Bacterial infection of urinary system
+
+40. Varicose veins:
+    Main symptoms: cramps, prominent_veins_on_calf, fatigue, swollen_legs, obesity
+    Description: Enlarged, twisted veins usually in legs
+
+41. hepatitis A:
+    Main symptoms: muscle_pain, mild_fever, yellowing_of_eyes, joint_pain, abdominal_pain
+    Description: Viral infection affecting the liver
+
+HOW TO USE THIS GUIDE:
+======================
+
+1. Identify the disease you suspect
+2. Check the main symptoms listed for that disease
+3. Select 3 or more symptoms that match your condition
+4. Use the Disease Predictor app to get diagnosis
+5. Consult a healthcare professional for proper treatment
+
+NOTE: This is for educational purposes only. Always consult a doctor for medical advice.

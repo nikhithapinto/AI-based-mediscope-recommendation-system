@@ -1,0 +1,94 @@
+# Advanced Healthcare System - Setup Guide
+
+## 🏥 Project Overview
+This is a comprehensive healthcare management system with AI-powered disease prediction, patient management, analytics dashboard, and medical report analysis.
+
+## 📁 Project Structure
+```
+DiseasePredictor/
+├── streamlit_app.py              # Main application
+├── patient_management.py         # Patient profiles & history
+├── analytics_dashboard.py        # Healthcare analytics
+├── report_analyzer.py           # Medical report analysis
+├── model_training.py            # ML model training
+├── requirements.txt             # Dependencies
+├── data/                        # Patient data storage
+├── datasets/                    # Training datasets
+├── models/                      # Trained ML models
+├── sample_reports/              # Sample medical reports
+└── .streamlit/                  # Streamlit configuration
+
+```
+
+## 🚀 Quick Start
+
+### 1. Navigate to Project Directory
+```bash
+cd C:\Users\lenovo\Desktop\HealthApp\DiseasePredictor
+```
+
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Run the Application
+```bash
+streamlit run streamlit_app.py
+```
+
+## 🌟 New Features Added
+
+### 👤 Patient Management System
+- Complete patient profiles with medical history
+- Diagnosis tracking and history management
+- Patient search and data management
+
+### 📊 Analytics Dashboard
+- Real-time healthcare analytics
+- Disease distribution and trends
+- Patient demographics visualization
+- Confidence analysis and specialist referrals
+
+### 🔬 Medical Report Analyzer
+- Automated vital sign extraction from reports
+- Risk assessment based on medical data
+- Intelligent recommendations
+- Support for multiple report formats
+
+### 🔍 Enhanced Disease Predictor
+- Multi-modal analysis (symptoms + reports + history)
+- Enhanced confidence scoring
+- Patient-specific recommendations
+- Comprehensive analysis summary
+
+## 📋 Usage Instructions
+
+1. **Start with Patient Management**: Create or select a patient profile
+2. **Upload Medical Reports**: Use the Report Analyzer to process medical documents
+3. **Disease Prediction**: Get enhanced predictions with patient context
+4. **View Analytics**: Monitor healthcare trends and insights
+
+## 🔧 Configuration
+
+### Google Maps API (Optional)
+Add your Google Maps API key to `.streamlit/secrets.toml`:
+```toml
+GOOGLE_MAPS_API_KEY = "your_api_key_here"
+```
+
+## 📊 Data Storage
+- Patient data: `data/patients.json`
+- Medical history: `data/patient_history.json`
+- All data is stored locally and securely
+
+## ⚠️ Important Notes
+- This system is for educational and research purposes
+- Always consult qualified healthcare professionals for medical decisions
+- Patient data is stored locally - ensure proper backup and security
+
+## 🆘 Troubleshooting
+- If modules not found: Run `pip install -r requirements.txt`
+- If data directory missing: It will be created automatically
+- For any issues: Check the console for error messages
+
